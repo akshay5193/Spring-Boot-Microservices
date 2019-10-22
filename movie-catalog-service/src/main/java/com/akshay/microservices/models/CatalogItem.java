@@ -1,4 +1,4 @@
-package com.akshay.microservices;
+package com.akshay.microservices.models;
 
 public class CatalogItem {
 	
